@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\scripts"
+    "\\data",
+    "\\infra",
+    "\\infra\\core",
+    "\\infra\\core\\host"
   ],
-  "SelectedNode": "\\scripts\\prepdocs.py",
+  "SelectedNode": "\\infra\\main.bicep",
   "PreviewInSolutionExplorer": false
 }
